@@ -4,7 +4,7 @@ To repozytorium zawiera folder EFI, przystosowany dla ThinkPada X270. Wersja Ope
 
 
 Specyfikacje laptopa:
-- **Procesor**: Intel Core i5-7200U
+- **Procesor**: Intel Core i5-7300U
 - **Grafika**: Intel HD Graphics 620
 - **RAM**: 8GB DDR4
 - **WiFi i Bluetooth**: Intel Dual Band Wireless-AC 8265
