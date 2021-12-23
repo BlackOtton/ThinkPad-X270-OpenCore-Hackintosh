@@ -1,5 +1,6 @@
 # OpenCore EFI for ThinkPad X270
 This repository includes all EFI folders and files needed for macOS 12.1 Monterey. OpenCore version 0.7.6.
+<a href="https://github.com/BlackOtton/ThinkPad-X270-OpenCore/blob/main/README-PL.md">Polish version of README</a>
 ![AboutThisMac](https://user-images.githubusercontent.com/52571671/147268041-f7247e3a-e8b0-4053-9645-01cd893e0c06.png)
 
 
