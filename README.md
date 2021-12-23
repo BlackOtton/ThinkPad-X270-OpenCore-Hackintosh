@@ -5,7 +5,7 @@ This repository includes all EFI folders and files needed for macOS 12.1 Montere
 
 
 Specifications:
-- **CPU**: Intel Core i5-7200U
+- **CPU**: Intel Core i5-7300U
 - **GPU**: Intel HD Graphics 620
 - **RAM**: 8GB DDR4
 - **WiFi & Bluetooth**: Intel Dual Band Wireless-AC 8265
