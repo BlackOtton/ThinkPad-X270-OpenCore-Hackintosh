@@ -40,6 +40,7 @@ Specifications:
 </details>
 
 <details><summary><b>Problems</b> :warning:</summary>
-  <li>Wi-Fi disconnets when docking ethernet is connected.<br> </li> 
+  <li>Wi-Fi disconnets when ethernet is connected.<br> </li>
+    <i>Fix: Disable "Wireless Auto Disconnection" in BIOS (Config>Network)</i>
 </details>
 
