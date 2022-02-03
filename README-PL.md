@@ -39,6 +39,7 @@ Specyfikacje laptopa:
 </details>
 
 <details><summary><b>Problemy</b> :warning:</summary>
-  <li>Wi-Fi rozłącza się gdy podłączy się ethernet na stacji dokującej <br> </li> 
+  <li>Wi-Fi rozłącza się gdy podłączy się ethernet.<br> </li>
+    <i>Fix: Wyłączyć opcję "Wireless Auto Disconnection" w BIOSie (Config>Network)</i>
 </details>
 
